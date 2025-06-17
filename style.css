@@ -13,7 +13,7 @@ html {
 
 /* Fundo */
 .container {
-  background-image: url('/06.png');
+  background-image: url('06.png');
   background-size: cover;
   background-position: center;
   min-height: 100vh;
